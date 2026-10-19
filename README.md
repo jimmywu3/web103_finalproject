@@ -1,8 +1,8 @@
-# [your app name here]
+# LocalMeet
 
 CodePath WEB103 Final Project
 
-Designed and developed by: [your names here]
+Designed and developed by: Bhupinder Mehton, Tabitha Sulaiman, Jimmy Wu, and Brian Ingram (?)
 
 🔗 Link to deployed app:
 
@@ -10,35 +10,37 @@ Designed and developed by: [your names here]
 
 ### Description and Purpose
 
-[text goes here]
+App for people who want to meet others and attend local events in their local communities.
+We want to grow communities and allow individuals to create meaningful connections with each other.
 
 ### Inspiration
 
-[text goes here]
+Instagram/Tinder
 
 ## Tech Stack
 
-Frontend:
+Frontend: React
 
-Backend:
+Backend: Node.js, Express, Postgresql
 
 ## Features
 
-### [Name of Feature 1]
+### Event creation
 
-[short description goes here]
-
-[gif goes here]
-
-### [Name of Feature 2]
-
-[short description goes here]
+Organizers fill out a form with title, description, date, time, location, and group. After submitting, they’re redirected to the new event’s page.
 
 [gif goes here]
 
-### [Name of Feature 3]
+### RSVP
 
-[short description goes here]
+Attendees open a pop-up form, enter their name and email, and choose going, maybe, or not going. Submitting again changes their status instead of creating a duplicate.
+
+[gif goes here]
+
+### Groups
+
+Users can create a group and view a group page at /groups/:groupId that lists all of its events. 
+
 
 [gif goes here]
 
