@@ -1,5 +1,3 @@
-git push -u origin tabeesbranch# Entity Relationship Diagram
-
 <!-- Reference the Creating an Entity Relationship Diagram final project guide in the course portal for more information about how to complete this deliverable. -->
 
 ## The List of Tables
