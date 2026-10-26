@@ -15,7 +15,7 @@ We want to grow communities and allow individuals to create meaningful connectio
 
 ### Inspiration
 
-Instagram/Tinder
+Instagram/Tinder, Eventbrite, Meetup
 
 ## Tech Stack
 
