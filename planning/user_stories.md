@@ -15,42 +15,20 @@ People who want to meet new people
 
 [👉🏾👉🏾👉🏾 Include at least at least 10 user stories in this format:]
 
-1. As an on-campus student, 
-I want to:
-Find affordable student housing
-Active campus activities
-so that I can:
-Minimize my cost of living, while prioritizing school, and making connections/friends. 
+1. As an on-campus student
+I want to find  campus activities similar to me so that I can quickly make connections/friends. 
 
 2. New Entry level (Permanent stay possible first time away from home)
-As a new entry-level worker, 
-I want to:
-Find other early folk just like me
-Match the tastes of things I already have going on
-Find places to study and have fun at
-so that I can:
- Adapt to this environment quickly and take this into consideration if I want to live here.
+As a new entry-level worker, I want to find other early folk just like me so that I am less lonely and can adapt to this new environment quickly.
 
 3. Low-income families (Forced to move be )
-As someone from a low-income family, 
-I want to:
-Find the cheapest resources, jobs around and available.
-so that I can:
-Be as financially comfortable as possible
+As someone from a low-income family, I want to find the cheapest resources, jobs around and available, so that I can be as financially comfortable as possible
 
-4. Children of people that move a lot
-As a child of  a person that moves a lot, 
-I want to:
-Quickly make friends with people I can relate with
-so that I can:
-Enjoy my time while I have it
+4. Group Travelers
+As someone in group travel, I want to check the availability of other people so its easier to plan events while I'm in it.
 
 5. Displaced due to natural disasters
-As someone displaced, 
-I want to:
-Locate come-back programs tailored to victims of displacement
-so that I can:
-Receive cushioning as I try to get my life back together
+As someone displaced, I want to locate come-back programs tailored to victims of displacement so that I can receive cushioning as I try to get my life back together
 
 6. Introverts
 As an introvert
