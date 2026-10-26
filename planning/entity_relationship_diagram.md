@@ -100,21 +100,3 @@
 | description          | text    | details about the resource              |
 | cost_level           | varchar | free, low, medium, or high              |
 | resource_category_id | integer | foreign key to `resource_categories.id` |
-
-```mermaid
-erDiagram
-    CATEGORIES ||--o{ EVENTS : "labels"
-    EVENTS {
-    int id PK
-    string title
-    string description
-    timestamp date "must be in the future"
-    string location
-    int color_category_id FK
-    string group_size "one_on_one, small, large"
-    decimal cost "0 = free, must be >= 0"
-    string ticket_url "optional link for paid events"
-    int organizer_id FK
-    timestamp created_at
-}
-```
